@@ -48,10 +48,27 @@
    font-weight: 600;
 }
 
+/**header**/
+
+.hero{
+   padding: -2rem;
+}
+
+.hero .hero-img {
+   max-width: 450px;
+ display: block;
+margin: auto;
+}
+
+.hero .hero_heading{
+   padding: 3rem ;
+   color : var(--background-color);
+}
 
 
 
-
-
-
+.hero .hero-heading 
+.heading-inverted {
+   color: var(--background-color)
+}
 
